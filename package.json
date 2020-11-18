@@ -12,7 +12,6 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo"
-    "start": "node app.js"
   },
   "author": "Stephen Cooney",
   "license": "ISC"
