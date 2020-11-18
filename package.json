@@ -17,5 +17,5 @@
   "license": "ISC"
 }
 "scripts": {
-  "start": "node your-script.js"
+  "start": "node app.js"
 }
