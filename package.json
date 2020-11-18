@@ -16,3 +16,6 @@
   "author": "Stephen Cooney",
   "license": "ISC"
 }
+"scripts": {
+  "start": "node your-script.js"
+}
